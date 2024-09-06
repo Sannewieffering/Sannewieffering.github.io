@@ -4,7 +4,7 @@ body {
 
 ul {
   list-style-type: none;
-  margin: 10;
+  margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: beige;
@@ -16,13 +16,13 @@ ul {
   
   li a {
     display: block;
-    color: rgb(9, 9, 9);
+    color: rgb(9, 9, 9);     /*letter kleur op het menu*/
     text-align: center;
     padding: 16px 18px;
     text-decoration: none;
   }
   
   li a:hover {
-    background-color: #ffe0f1ea;
+    background-color: #ffe0f1ea;  /*kleur van het menu als je het aanklikt*/
   }
 
