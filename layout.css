@@ -27,9 +27,15 @@ ul {
   }
 
   h1{
-    text-align: left;
+    text-align: left;    /*titel aan de linker kant gezet*/
   }
   p{
-    text-align: center;
+    text-align: center;   /*paragraaf naar midden*/
   }
 
+div{
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  text-align: justify;
+}
