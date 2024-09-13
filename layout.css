@@ -33,3 +33,6 @@ ul {
     text-align: left;   /*paragraaf naar linkerkantd*/
   }
 
+  h1 classes="kleurmodellen" {
+    text-decoration-line: underline;
+    text-decoration-thickness: auto;
