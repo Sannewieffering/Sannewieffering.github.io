@@ -34,7 +34,7 @@ ul {
 
  h2{
     text-align: center;    /*titel aan in het midden gezet*/
-    text-decoration: overline underline;
+    text-decoration: overline underline;    /*aanpassen naar border*/
     width: 100%;
     font-family:'Monaco',Courier, monospace;
   }
