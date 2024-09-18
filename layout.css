@@ -38,3 +38,7 @@ ul {
     width: 100%;
     font-family:'Monaco',Courier, monospace;
   }
+
+  image{
+    float: right;
+  }
