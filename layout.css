@@ -35,6 +35,6 @@ ul {
  h2{
     text-align: center;    /*titel aan in het midden gezet*/
     text-decoration: overline underline;
-    font-family:'Monaco',Courier, monospace;
     width: 100%;
+    font-family:'Monaco',Courier, monospace;
   }
