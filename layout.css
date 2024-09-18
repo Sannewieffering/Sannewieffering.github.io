@@ -38,4 +38,5 @@ ul {
  h2{
     text-decoration: overline underline;
     font-family:'Monaco',Courier, monospace;
+    width: 100%;
   }
