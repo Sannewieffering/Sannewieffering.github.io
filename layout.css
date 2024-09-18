@@ -26,9 +26,6 @@ ul {
     background-color: #ffe0f1ea;  /*kleur van het menu als je het aanklikt*/
   }
 
-  h2{
-    text-align: center;    /*titel aan in het midden gezet*/
-  }
   p{
     text-align:center;   /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
@@ -36,6 +33,7 @@ ul {
   }
 
  h2{
+    text-align: center;    /*titel aan in het midden gezet*/
     text-decoration: overline underline;
     font-family:'Monaco',Courier, monospace;
     width: 100%;
