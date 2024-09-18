@@ -31,6 +31,7 @@ ul {
   }
   p{
     text-align: left;   /*paragraaf naar linkerkant*/
+    font-family: 'Monaco', Courier, monospace;
   }
 
  h1{
