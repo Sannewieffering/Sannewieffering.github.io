@@ -30,6 +30,7 @@ ul {
     text-align:center;   /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
     font-size: small;
+    width: 50%;
   }
 
  h2{
