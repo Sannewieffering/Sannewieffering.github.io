@@ -27,7 +27,7 @@ ul {
   }
 
   p{
-    text-align:center;   /*paragraaf naar linkerkant*/
+    text-align:left;   /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
     font-size: small;
     width: 50%;
