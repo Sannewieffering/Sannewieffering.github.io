@@ -36,11 +36,11 @@ ul {
  h2{
     text-align: center;    /*titel aan in het midden gezet*/
     border-style: solid;   /*border om kopjes gezet*/
-    width: 100%;
-    font-family:'Monaco',Courier, monospace;
+    width: 100%;           /*tekst smaller neergezet*/
+    font-family:'Monaco',Courier, monospace; /*lettertype veranderd*/
   }
 
   iframe{
-    float:right;
+    float:right;      /*binary bonanza van plek veranderd*/
   }
 
