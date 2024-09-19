@@ -40,3 +40,7 @@ ul {
     font-family:'Monaco',Courier, monospace;
   }
 
+  iframe{
+    float:right;
+  }
+
