@@ -46,8 +46,8 @@ ul {
     width: 75%;}
 
   p.werk{
-    border-style: double;
-    border-color: deeppink;
+    border-style: double;    /*dubbele border om tekst gezet*/
+    border-color: deeppink;     /*borderkleur aangepast*/
     color: black;
     text-align:left;  /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
