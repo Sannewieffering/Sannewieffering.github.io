@@ -27,7 +27,9 @@ ul {
   }
 
   p.persoonlijk{
-    border-style: double;color: #f1319bea;
+    border-style: double;
+    border-color: #d06f9eea;
+    color: #000000ea;
     text-align:left;  /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
     font-size: small;
@@ -35,14 +37,18 @@ ul {
   }
 
   p.sport{
-    border-style: double;color: #fba4e0ea;
+    border-style: double;
+    border-color: #ed10a7ea;
+    color: black;
     text-align:left;  /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
     font-size: small;
     width: 75%;}
 
   p.werk{
-    border-style: double;color: deeppink;
+    border-style: double;
+    border-color: deeppink;
+    color: black;
     text-align:left;  /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
     font-size: small;
