@@ -26,14 +26,28 @@ ul {
     background-color: #ffe0f1ea;  /*kleur van het menu als je het aanklikt*/
   }
 
-  p{
-    border-style: double;
+  p.persoonlijk{
+    border-style: double;color: #f1319bea;
     text-align:left;  /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
     font-size: small;
     width: 75%;
   }
 
+  p.sport{
+    border-style: double;color: #fba4e0ea;
+    text-align:left;  /*paragraaf naar linkerkant*/
+    font-family: 'Monaco', Courier, monospace;
+    font-size: small;
+    width: 75%;}
+
+  p.werk{
+    border-style: double;color: deeppink;
+    text-align:left;  /*paragraaf naar linkerkant*/
+    font-family: 'Monaco', Courier, monospace;
+    font-size: small;
+    width: 75%;
+  }
  h2{
     text-align: center;    /*titel aan in het midden gezet*/
     border-style: solid;   /*border om kopjes gezet*/
