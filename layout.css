@@ -54,6 +54,10 @@ ul {
     font-size: small;
     width: 75%;
   }
+
+  image{
+    width: 35%;
+  }
  h2{
     text-align: center;    /*titel aan in het midden gezet*/
     border-style: solid;   /*border om kopjes gezet*/
