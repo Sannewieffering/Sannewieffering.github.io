@@ -55,8 +55,8 @@ ul {
     width: 75%;
   }
 
-  img{
-    width: 300px;
+  id.paard{
+    width: 200px;
     height: auto;
     float: right; 
   }
