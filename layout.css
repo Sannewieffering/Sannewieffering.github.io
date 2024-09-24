@@ -55,19 +55,19 @@ ul {
     width: 75%;
   }
 
-  div.paard{
+  #paard{
     width: 200px;
     height: auto;
     float: right; 
   }
 
-  div.voetbal{
+  #voetbal{
     width: 300px;
     height: auto;
     float: left;
   }
 
-  div.flower{
+  #flower{
    float: right under; 
   }
 
