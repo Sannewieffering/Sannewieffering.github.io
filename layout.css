@@ -55,11 +55,23 @@ ul {
     width: 75%;
   }
 
-  id.paard{
+  img.paard{
     width: 200px;
     height: auto;
     float: right; 
   }
+
+  img.voetbal{
+    width: 300px;
+    height: auto;
+    float: left;
+  }
+
+  img.flower{
+   float: right under; 
+  }
+
+
  h2{
     text-align: center;    /*titel aan in het midden gezet*/
     border-style: solid;   /*border om kopjes gezet*/
