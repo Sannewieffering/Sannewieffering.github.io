@@ -55,19 +55,19 @@ ul {
     width: 75%;
   }
 
-  img.paard{
+  div.paard{
     width: 200px;
     height: auto;
     float: right; 
   }
 
-  img.voetbal{
+  div.voetbal{
     width: 300px;
     height: auto;
     float: left;
   }
 
-  img.flower{
+  div.flower{
    float: right under; 
   }
 
