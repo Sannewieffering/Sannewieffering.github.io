@@ -83,11 +83,29 @@ ul {
     float:right;      /*binary bonanza van plek veranderd*/
     width: 50%;
   }
-  p.binairstelsel{}
-  p.positiewaarden{}
-  p.omrekenen{}
-  p.bitenByte
+  p.binairstelsel{
+    width:75%
+  }
+  p.positiewaarden{
+    width:75%
+  }
+  p.omrekenen{
+    width:75%
+  }
+  p.bit-en-Byte{
+    width:75%
+  }
+  p.toepassing{
+    width:75%
+  }
+  p.ASCII{
+    width:75%
+  }
+  p.Hoe-werkt-ASCII{
+    width:75%
+  }
+
   #binairstelsel{
-    width:30%
+    width:300px
   }
 
