@@ -50,18 +50,19 @@ ul {
   }
 
   #paard{
-    width: 300px;
+    width: 300px;   /*grootte en plaats van foto aangepast*/
     height: auto;
     float: right; 
   }
 
   #voetbal{
-    width: 200px;
+    width: 200px;   /*grootte en plaats van foto aangepast*/
     height: auto;
     float: right;
   }
 
   #flower{
+    width: 300px;     
    float: right under; 
   }
 
@@ -77,7 +78,7 @@ ul {
     float:right;      /*binary bonanza van plek veranderd*/
     width: 50%;
   }
-  p.binairstelsel{
+  p.binairstelsel{  /*paragraaf grootte aangepast*/
     width: 80%;
   }
   p.positiewaarden{
@@ -99,7 +100,7 @@ ul {
     width:80%;
   }
 
-  #binairstelsel{
+  #binairstelsel{  /*# staat voor de klasse die ik aan foto heb gegeven*/
     float: right;
     width:300px
     
@@ -167,7 +168,7 @@ ul {
     width: 450px;
   }
 
-  #footer{
+  #footer{                  /*footer aangepast, dus kleur
     text-align: right;
     color: rgb(0, 0, 0);
     margin-right: 3%;
