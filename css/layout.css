@@ -59,6 +59,7 @@ ul {
     width: 10%;   /*grootte en plaats van foto aangepast*/
     height: auto;
     float: right;
+    margin-right: 4%;
   }
 
   #flower{
