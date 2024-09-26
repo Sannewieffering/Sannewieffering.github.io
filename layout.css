@@ -27,8 +27,6 @@ ul {
   }
 
   p.persoonlijk{
-    border-style: double;
-    border-color: #d06f9eea;
     color: #000000ea;
     text-align:left;  /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
@@ -37,8 +35,6 @@ ul {
   }
 
   p.sport{
-    border-style: double;
-    border-color: #ed10a7ea;
     color: black;
     text-align:left;  /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
@@ -46,8 +42,6 @@ ul {
     width: 75%;}
 
   p.werk{
-    border-style: double;    /*dubbele border om tekst gezet*/
-    border-color: deeppink;     /*borderkleur aangepast*/
     color: black;
     text-align:left;  /*paragraaf naar linkerkant*/
     font-family: 'Monaco', Courier, monospace;
