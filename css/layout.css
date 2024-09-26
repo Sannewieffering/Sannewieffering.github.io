@@ -50,13 +50,13 @@ ul {
   }
 
   #paard{
-    width: 10%;   /*grootte en plaats van foto aangepast*/
+    width: 20%;   /*grootte en plaats van foto aangepast*/
     height: auto;
     float: right; 
   }
 
   #voetbal{
-    width: 10%;   /*grootte en plaats van foto aangepast*/
+    width: 20%;   /*grootte en plaats van foto aangepast*/
     height: auto;
     float: right;
   }
