@@ -168,8 +168,8 @@ ul {
     width: 450px;
   }
 
-  #footer{                  /*footer aangepast, dus kleur
-    text-align: right;
+  #footer{                  /*footer aangepast, dus tekst-kleur, achtergrond-kleur en de ruimte tussen de footer en de zijkant van het scherm*/ 
+    text-align: right;               
     color: rgb(0, 0, 0);
     margin-right: 3%;
   }
