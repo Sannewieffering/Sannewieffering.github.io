@@ -50,13 +50,13 @@ ul {
   }
 
   #paard{
-    width: 30%;   /*grootte en plaats van foto aangepast*/
+    width: 10%;   /*grootte en plaats van foto aangepast*/
     height: auto;
     float: right; 
   }
 
   #voetbal{
-    width: 30%;   /*grootte en plaats van foto aangepast*/
+    width: 10%;   /*grootte en plaats van foto aangepast*/
     height: auto;
     float: right;
   }
@@ -76,7 +76,7 @@ ul {
 
   iframe{
     float:right;      /*binary bonanza van plek veranderd*/
-    width: 50%;
+    width: 40%;
   }
   p.binairstelsel{  /*paragraaf grootte aangepast*/
     width: 80%;
@@ -102,12 +102,8 @@ ul {
 
   #binairstelsel{  /*# staat voor de klasse die ik aan foto heb gegeven*/
     float: right;
-    width:30%
+    width:20%
     
-  }
-
-  #binary-bonanza{
-    float: right;
   }
 
   p.HGR-model{
@@ -133,7 +129,7 @@ ul {
   }
 
   #computer{
-    width: 70%;
+    width: 40%;
   }
 
   p.compressie{
@@ -153,7 +149,7 @@ ul {
   }
 
   #decompressie{
-    width: 400px;
+    width: 20%;
   }
 
   p.bitmapafbeeldingen{
@@ -165,7 +161,7 @@ ul {
   }
 
   #geluidsgolf{
-    width: 50%;
+    width: 30%;
   }
 
   #footer{                  /*footer aangepast, dus tekst-kleur, achtergrond-kleur en de ruimte tussen de footer en de zijkant van het scherm*/ 
