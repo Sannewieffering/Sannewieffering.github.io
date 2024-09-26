@@ -50,13 +50,13 @@ ul {
   }
 
   #paard{
-    width: 100px;
+    width: 400px;
     height: auto;
     float: right; 
   }
 
   #voetbal{
-    width: 400px;
+    width: 200px;
     height: auto;
     float: right;
   }
