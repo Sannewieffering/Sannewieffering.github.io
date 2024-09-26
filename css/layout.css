@@ -50,19 +50,19 @@ ul {
   }
 
   #paard{
-    width: 300px;   /*grootte en plaats van foto aangepast*/
+    width: 30%;   /*grootte en plaats van foto aangepast*/
     height: auto;
     float: right; 
   }
 
   #voetbal{
-    width: 200px;   /*grootte en plaats van foto aangepast*/
+    width: 30%;   /*grootte en plaats van foto aangepast*/
     height: auto;
     float: right;
   }
 
   #flower{
-    width: 300px;     
+    width: 30%;     
    float: right under; 
   }
 
@@ -102,7 +102,7 @@ ul {
 
   #binairstelsel{  /*# staat voor de klasse die ik aan foto heb gegeven*/
     float: right;
-    width:300px
+    width:30%
     
   }
 
@@ -165,7 +165,7 @@ ul {
   }
 
   #geluidsgolf{
-    width: 450px;
+    width: 50%;
   }
 
   #footer{                  /*footer aangepast, dus tekst-kleur, achtergrond-kleur en de ruimte tussen de footer en de zijkant van het scherm*/ 
